@@ -1,0 +1,1 @@
+{"name":"Local: nop2","url":"c:\\Users\\Admin\\Desktop\\CTDL-GT\\nop2.cpp","tests":[{"id":1720934814241,"input":"4 2\n123 231 211 122","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\CTDL-GT\\nop2.cpp","group":"local","local":true}
